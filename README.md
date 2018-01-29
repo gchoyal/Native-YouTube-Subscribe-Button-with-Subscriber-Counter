@@ -1,0 +1,2 @@
+# Native-YouTube-Subscribe-Button-with-Subscriber-Counter
+Native YouTube Subscribe Button with Subscriber Counter plugin provide shortcode to place YouTube native style subscribe button in website with autoupdate subscriber counter inside button And AutoSubscribe to channel directly from your website. Use Shortcode [nysb-youtube-btn id="UCrdpnS5Uz2MijaX9-5vJR4g"] (Replace my channel id to your channel ID) to show Youtube Subscribe button.
